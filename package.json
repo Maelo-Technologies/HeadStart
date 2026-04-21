@@ -1,0 +1,13 @@
+{
+  "name": "headstart",
+  "version": "1.0.0",
+  "description": "One-command Windows development environment bootstrap tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["windows", "setup", "automation", "dev-tools"],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
