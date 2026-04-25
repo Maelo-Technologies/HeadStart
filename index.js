@@ -15,7 +15,6 @@ const config = {
   security: true,
   debloat: true,
   folders: true,
-  focusMode: true
 };
 
 // command wrapper

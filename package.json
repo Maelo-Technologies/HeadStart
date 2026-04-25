@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": ["windows", "setup", "automation", "dev-tools"],
-  "author": "",
+  "author": "jxrvys",
   "license": "MIT",
   "type": "commonjs"
 }
