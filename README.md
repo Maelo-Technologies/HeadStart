@@ -1,4 +1,4 @@
-# HeadStart V1.0.0
+# HeadStart 
 > One-command Windows development environment bootstrap tool
 
 A Windows setup tool that installs some software for dev work, activates a few  Windows security features, and removes that stupid Solitaire app with one simple command
@@ -15,4 +15,5 @@ A Windows setup tool that installs some software for dev work, activates a few  
 3. Run: node index.js
 
 > Some features may require running as Administrator.
-> Installs Ubuntu via WSL
+>
+> Installs Ubuntu via WSL.
