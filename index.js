@@ -5,7 +5,6 @@ const config = {
   install: {
     vscode: true,
     git: true,
-    node: true,
     python: true,
     terminal: true,
     zip: true,
@@ -41,9 +40,6 @@ function installApps() {
 
   if (config.install.git)
     apps.push(["Git.Git", "Git"]);
-
-  if (config.install.node)
-    apps.push(["OpenJS.NodeJS.LTS", "Node.js"]);
 
   if (config.install.python)
     apps.push(["Python.Python.3.12", "Python"]);
